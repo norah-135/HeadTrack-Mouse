@@ -85,7 +85,6 @@ As a university student, accessing multiple platforms throughout the day can be 
 
 ### Smart Study Assistant
 <img width="1322" height="893" alt="لقطة شاشة 2026-01-29 113917" src="https://github.com/user-attachments/assets/1e86e303-306e-4ce0-9f95-38cc6b4224f0" />
-<img width="1320" height="889" alt="لقطة شاشة 2026-01-29 113902" src="https://github.com/user-attachments/assets/f59af88e-8695-45b0-bde7-54b13ac08ee4" />
 <img width="1321" height="901" alt="لقطة شاشة 2026-01-29 114008" src="https://github.com/user-attachments/assets/a84ccdbd-d080-4668-be46-29ec4b283dad" />
 
 The **Smart Study Assistant** is a custom-built web application designed specifically for university students to streamline the study process using AI-powered tools.
@@ -225,5 +224,6 @@ Reaching the top and bottom edges of the screen typically requires significant h
 
 "This project was just a few touches away from being more perfect, but I realized that development is a never-ending process. Recognizing the 'Perfectionism Trap,' I decided to release it anyway. Special thanks to late nights, coffee, and cat videos for pulling me out of frustration every time I failed to fix the code:)" 
 </div>
+
 
 
