@@ -215,8 +215,10 @@ Reaching the top and bottom edges of the screen typically requires significant h
 
 <div align="center">
 
-### If this project helped you, please give it a star!
+### 💡 Behind the Code | خلف الكواليس
 
-**Built with care for accessibility and innovation**
+"هذا المشروع كان يحتاج القليل من اللمسات ليكون أكثر مثالية، ولكنني أدركت أن التطوير عملية لا تنتهي أبدًا. وانطلاقًا من معرفتي بـ 'فخ المثالية'، قررتُ إطلاقه ومشاركته على أية حال. شكراً لسهر الليالي المتأخر، ولأكواب القهوة، ولمقاطع القطط التي كانت رفيقتي ومخرجي من مود الإحباط بعد كل محاولة فاشلة لتصليح الكود:)" 
 
+"This project was just a few touches away from being more perfect, but I realized that development is a never-ending process. Recognizing the 'Perfectionism Trap,' I decided to release it anyway. Special thanks to late nights, coffee, and cat videos for pulling me out of frustration every time I failed to fix the code:)" 
 </div>
+
